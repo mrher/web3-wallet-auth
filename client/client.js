@@ -53,6 +53,6 @@ async function connectCosmosWallet() {
   
   // Вызов функции при загрузке страницы или по событию
   window.onload = function() {
-    connectCosmosWallet();
+    // connectCosmosWallet();
   };
   
