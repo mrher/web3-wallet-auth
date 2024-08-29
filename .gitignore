@@ -1,0 +1,9 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE - VSCode
+.vscode/*
+
+# dependencies
+node_modules

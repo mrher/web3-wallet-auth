@@ -1,0 +1,20 @@
+{
+  "name": "web3_wallet_auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Serge",
+  "license": "ISC",
+  "description": "cosmos chain wallet text auth",
+  "dependencies": {
+    "@cosmjs/crypto": "^0.32.4",
+    "@cosmjs/encoding": "^0.32.4",
+    "@cosmjs/proto-signing": "^0.32.4",
+    "@cosmjs/stargate": "^0.32.4",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
